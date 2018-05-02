@@ -27,7 +27,8 @@
   "dependencies": {
     "vue": "^2.5.2"{{#router}},
     "vue-router": "^3.0.1"{{/router}},
-    "bootstrap-vue": "^2.0.0-rc.9"
+    "bootstrap-vue": "^2.0.0-rc.9",
+    "vue-awesome": "^3.0.0"
   },
   "devDependencies": {
     {{#lint}}
